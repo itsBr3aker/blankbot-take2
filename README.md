@@ -1,6 +1,6 @@
 # blankbot
 
-a bot for [blank's not so secret hideout](https://discord.gg/PbzTawzQDb)
+a bot for [blank's not so secret hideout](https://discord.com)
 
 ## going online
 
