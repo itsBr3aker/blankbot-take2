@@ -1,7 +1,20 @@
 # blankbot
 
-a bot for [blank's not so secret hideout](https://discord.com)
+a bot for [blank's not so secret hideout](https://discord.com) that you can repurpose as needed
 
 ## going online
 
 whenever blankbot's code is started, blankbot will send out a message saying *blankbot has arrived*
+
+## Setup
+
+Setting up your instance of this bot is quite simple, though some things are required. Here's what you need:
+
+<ul>
+    <li>A discord account</li>
+    <li>A bot token through discord's developer portal</li>
+    <li>A Python interpreter (64-bit recommended, version 3.9 or newer)</li>
+    <li>A text editor of your choice</li>
+</ul>
+
+Once you have those ready, clone or download this repository. You can clone using `git clone` or downloading a .zip archive of this code.
