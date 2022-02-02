@@ -5,9 +5,12 @@ import json
 from decouple import config
 import datetime
 
+# configs from .env
+
 bot_token = config('TOKEN')
-# 'bot_token' will be populated with bot token in the hidden .env file
+# 'bot_token' will be populated with bot token in the .env file
 bot_prefix = config('PREFIX')
+# 'bot_prefix' will be the prefix specified in the .env file
 
 client = discord.Client()
 
